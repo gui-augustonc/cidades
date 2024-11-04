@@ -1,0 +1,400 @@
+nome;latitude;longitude;codigo_uf
+Abatiá;-23.3049;-50.3133;41
+Adrianópolis;-24.6606;-48.9922;41
+Agudos do Sul;-25.9899;-49.3343;41
+Almirante Tamandaré;-25.3188;-49.3037;41
+Altamira do Paraná;-24.7983;-52.7128;41
+Alto Paraíso;-26.1146;-52.7469;41
+Alto Paraná;-23.1312;-52.3189;41
+Alto Piquiri;-24.0224;-53.44;41
+Altônia;-23.8759;-53.8958;41
+Alvorada do Sul;-22.7813;-51.2297;41
+Amaporã;-23.0943;-52.7866;41
+Ampére;-25.9168;-53.4686;41
+Anahy;-24.6449;-53.1332;41
+Andirá;-23.0533;-50.2304;41
+Ângulo;-23.1946;-51.9154;41
+Antonina;-25.4386;-48.7191;41
+Antônio Olinto;-25.9804;-50.1972;41
+Apucarana;-23.55;-51.4635;41
+Arapongas;-23.4153;-51.4259;41
+Arapoti;-24.1548;-49.8285;41
+Arapuã;-24.3132;-51.7856;41
+Araruna;-23.9315;-52.5021;41
+Araucária;-25.5859;-49.4047;41
+Ariranha do Ivaí;-24.3857;-51.5839;41
+Assaí;-23.3697;-50.8459;41
+Assis Chateaubriand;-24.4168;-53.5213;41
+Astorga;-23.2318;-51.6668;41
+Atalaia;-23.1517;-52.0551;41
+Balsa Nova;-25.5804;-49.6291;41
+Bandeirantes;-23.1078;-50.3704;41
+Barbosa Ferraz;-24.0334;-52.004;41
+Barra do Jacaré;-23.116;-50.1842;41
+Barracão;-26.2502;-53.6324;41
+Bela Vista da Caroba;-25.8842;-53.6725;41
+Bela Vista do Paraíso;-22.9937;-51.1927;41
+Bituruna;-26.1607;-51.5518;41
+Boa Esperança;-24.2467;-52.7876;41
+Boa Esperança do Iguaçu;-25.6324;-53.2108;41
+Boa Ventura de São Roque;-24.8688;-51.6276;41
+Boa Vista da Aparecida;-25.4308;-53.4117;41
+Bocaiúva do Sul;-25.2066;-49.1141;41
+Bom Jesus do Sul;-26.1958;-53.5955;41
+Bom Sucesso;-23.7063;-51.7671;41
+Bom Sucesso do Sul;-26.0731;-52.8353;41
+Borrazópolis;-23.9366;-51.5875;41
+Braganey;-24.8173;-53.1218;41
+Brasilândia do Sul;-24.1978;-53.5275;41
+Cafeara;-22.789;-51.7142;41
+Cafelândia;-24.6189;-53.3207;41
+Cafezal do Sul;-23.9005;-53.5124;41
+Califórnia;-23.6566;-51.3574;41
+Cambará;-23.0423;-50.0753;41
+Cambé;-23.2766;-51.2798;41
+Cambira;-23.589;-51.5792;41
+Campina da Lagoa;-24.5893;-52.7976;41
+Campina do Simão;-25.0802;-51.8237;41
+Campina Grande do Sul;-25.3044;-49.0551;41
+Campo Bonito;-25.0294;-52.9939;41
+Campo do Tenente;-25.98;-49.6844;41
+Campo Largo;-25.4525;-49.529;41
+Campo Magro;-25.3687;-49.4501;41
+Campo Mourão;-24.0463;-52.378;41
+Cândido de Abreu;-24.5649;-51.3372;41
+Candói;-25.5758;-52.0409;41
+Cantagalo;-25.3734;-52.1198;41
+Capanema;-25.6691;-53.8055;41
+Capitão Leônidas Marques;-25.4816;-53.6112;41
+Carambeí;-24.9152;-50.0986;41
+Carlópolis;-23.4269;-49.7235;41
+Cascavel;-24.9573;-53.459;41
+Castro;-24.7891;-50.0108;41
+Catanduvas;-25.2044;-53.1548;41
+Centenário do Sul;-22.8188;-51.5973;41
+Cerro Azul;-26.0891;-52.8691;41
+Céu Azul;-25.1489;-53.8415;41
+Chopinzinho;-25.8515;-52.5173;41
+Cianorte;-23.6599;-52.6054;41
+Cidade Gaúcha;-23.3772;-52.9436;41
+Clevelândia;-26.4043;-52.3508;41
+Colombo;-25.2925;-49.2262;41
+Colorado;-22.8374;-51.9743;41
+Congonhinhas;-23.5493;-50.5569;41
+Conselheiro Mairinck;-23.623;-50.1707;41
+Contenda;-25.6788;-49.535;41
+Corbélia;-24.7971;-53.3006;41
+Cornélio Procópio;-23.1829;-50.6498;41
+Coronel Domingos Soares;-26.2277;-52.0356;41
+Coronel Vivida;-25.9767;-52.5641;41
+Corumbataí do Sul;-24.101;-52.1177;41
+Cruz Machado;-26.0166;-51.343;41
+Cruzeiro do Iguaçu;-25.6192;-53.1285;41
+Cruzeiro do Oeste;-23.7799;-53.0774;41
+Cruzeiro do Sul;-22.9624;-52.1622;41
+Cruzmaltina;-24.0132;-51.4563;41
+Curitiba;-25.4195;-49.2646;41
+Curiúva;-24.0362;-50.4576;41
+Diamante D'Oeste;-24.9419;-54.1052;41
+Diamante do Norte;-22.655;-52.8617;41
+Diamante do Sul;-25.035;-52.6768;41
+Dois Vizinhos;-25.7407;-53.057;41
+Douradina;-23.3807;-53.2918;41
+Doutor Camargo;-23.5582;-52.2178;41
+Doutor Ulysses;-24.5665;-49.4219;41
+Enéas Marques;-25.9445;-53.1659;41
+Engenheiro Beltrão;-23.797;-52.2659;41
+Entre Rios do Oeste;-24.7042;-54.2385;41
+Esperança Nova;-23.7238;-53.811;41
+Espigão Alto do Iguaçu;-25.4216;-52.8348;41
+Farol;-24.0958;-52.6217;41
+Faxinal;-24.0077;-51.3227;41
+Fazenda Rio Grande;-25.6624;-49.3073;41
+Fênix;-23.9135;-51.9805;41
+Fernandes Pinheiro;-25.4107;-50.5456;41
+Figueira;-23.8455;-50.4031;41
+Flor da Serra do Sul;-26.2523;-53.3092;41
+Floraí;-23.3178;-52.3029;41
+Floresta;-23.6031;-52.0807;41
+Florestópolis;-22.8623;-51.3882;41
+Flórida;-23.0847;-51.9546;41
+Formosa do Oeste;-24.2951;-53.3114;41
+Foz do Iguaçu;-25.5427;-54.5827;41
+Foz do Jordão;-25.7371;-52.1188;41
+Francisco Alves;-24.0667;-53.8461;41
+Francisco Beltrão;-26.0817;-53.0535;41
+General Carneiro;-26.425;-51.3172;41
+Godoy Moreira;-24.173;-51.9246;41
+Goioerê;-24.1835;-53.0248;41
+Goioxim;-25.1927;-51.9911;41
+Grandes Rios;-24.1466;-51.5094;41
+Guaíra;-24.085;-54.2573;41
+Guairaçá;-22.932;-52.6906;41
+Guamiranga;-25.1912;-50.8021;41
+Guapirama;-23.5203;-50.0407;41
+Guaporema;-23.3402;-52.7786;41
+Guaraci;-22.9694;-51.6504;41
+Guaraniaçu;-25.0968;-52.8755;41
+Guarapuava;-25.3902;-51.4623;41
+Guaraqueçaba;-25.3071;-48.3204;41
+Guaratuba;-25.8817;-48.5752;41
+Honório Serpa;-26.139;-52.3848;41
+Ibaiti;-23.8478;-50.1932;41
+Ibema;-25.1193;-53.0072;41
+Ibiporã;-23.2659;-51.0522;41
+Icaraíma;-23.3944;-53.615;41
+Iguaraçu;-23.1949;-51.8256;41
+Iguatu;-24.7153;-53.0827;41
+Imbaú;-24.448;-50.7533;41
+Imbituva;-25.2285;-50.5989;41
+Inácio Martins;-25.5704;-51.0769;41
+Inajá;-22.7509;-52.1995;41
+Indianópolis;-23.4762;-52.6989;41
+Ipiranga;-25.0238;-50.5794;41
+Iporã;-24.0083;-53.706;41
+Iracema do Oeste;-24.4262;-53.3528;41
+Irati;-25.4697;-50.6493;41
+Iretama;-24.4253;-52.1012;41
+Itaguajé;-22.6183;-51.9674;41
+Itaipulândia;-25.1366;-54.3001;41
+Itambaracá;-23.0181;-50.4097;41
+Itambé;-23.6601;-51.9912;41
+Itapejara d'Oeste;-25.9619;-52.8152;41
+Itaperuçu;-25.2193;-49.3454;41
+Itaúna do Sul;-22.7289;-52.8874;41
+Ivaí;-25.0067;-50.857;41
+Ivaiporã;-24.2485;-51.6754;41
+Ivaté;-23.4072;-53.3687;41
+Ivatuba;-23.6187;-52.2203;41
+Jaboti;-23.7435;-50.0729;41
+Jacarezinho;-23.1591;-49.9739;41
+Jaguapitã;-23.1104;-51.5342;41
+Jaguariaíva;-24.2439;-49.7066;41
+Jandaia do Sul;-23.6011;-51.6448;41
+Janiópolis;-24.1401;-52.7784;41
+Japira;-23.8142;-50.1422;41
+Japurá;-23.4693;-52.5557;41
+Jardim Alegre;-24.1809;-51.6902;41
+Jardim Olinda;-22.5523;-52.0503;41
+Jataizinho;-23.2578;-50.9777;41
+Jesuítas;-24.3839;-53.3849;41
+Joaquim Távora;-23.4987;-49.909;41
+Jundiaí do Sul;-23.4357;-50.2496;41
+Juranda;-24.4209;-52.8413;41
+Jussara;-23.6219;-52.4693;41
+Kaloré;-23.8188;-51.6687;41
+Lapa;-25.7671;-49.7168;41
+Laranjal;-24.8862;-52.47;41
+Laranjeiras do Sul;-25.4077;-52.4109;41
+Leópolis;-23.0818;-50.7511;41
+Lidianópolis;-24.11;-51.6506;41
+Lindoeste;-25.2596;-53.5733;41
+Loanda;-22.9232;-53.1362;41
+Lobato;-23.0058;-51.9524;41
+Londrina;-23.304;-51.1691;41
+Luiziana;-24.2853;-52.269;41
+Lunardelli;-24.0821;-51.7368;41
+Lupionópolis;-22.755;-51.6601;41
+Mallet;-25.8806;-50.8173;41
+Mamborê;-24.317;-52.5271;41
+Mandaguaçu;-23.3458;-52.0944;41
+Mandaguari;-23.5446;-51.671;41
+Mandirituba;-25.777;-49.3282;41
+Manfrinópolis;-26.1441;-53.3113;41
+Mangueirinha;-25.9421;-52.1743;41
+Manoel Ribas;-24.5144;-51.6658;41
+Marechal Cândido Rondon;-24.557;-54.0571;41
+Maria Helena;-23.6158;-53.2053;41
+Marialva;-23.4843;-51.7928;41
+Marilândia do Sul;-23.7425;-51.3137;41
+Marilena;-22.7336;-53.0402;41
+Mariluz;-24.0089;-53.1432;41
+Maringá;-23.4205;-51.9333;41
+Mariópolis;-26.355;-52.5532;41
+Maripá;-24.42;-53.8286;41
+Marmeleiro;-26.1472;-53.0267;41
+Marquinho;-25.112;-52.2497;41
+Marumbi;-23.7058;-51.6404;41
+Matelândia;-25.2496;-53.9935;41
+Matinhos;-25.8237;-48.549;41
+Mato Rico;-24.6995;-52.1454;41
+Mauá da Serra;-23.8988;-51.2277;41
+Medianeira;-25.2977;-54.0943;41
+Mercedes;-24.4538;-54.1618;41
+Mirador;-23.255;-52.7761;41
+Miraselva;-22.9657;-51.4846;41
+Missal;-25.0919;-54.2477;41
+Moreira Sales;-24.0509;-53.0102;41
+Morretes;-25.4744;-48.8345;41
+Munhoz de Melo;-23.1487;-51.7737;41
+Nossa Senhora das Graças;-22.9129;-51.7978;41
+Nova Aliança do Ivaí;-23.1763;-52.6032;41
+Nova América da Colina;-23.3308;-50.7168;41
+Nova Aurora;-24.5289;-53.2575;41
+Nova Cantu;-24.6723;-52.5661;41
+Nova Esperança;-23.182;-52.2031;41
+Nova Esperança do Sudoeste;-25.9004;-53.2618;41
+Nova Fátima;-23.4324;-50.5665;41
+Nova Laranjeiras;-25.3054;-52.5447;41
+Nova Londrina;-22.7639;-52.9868;41
+Nova Olímpia;-23.4703;-53.0898;41
+Nova Prata do Iguaçu;-25.6309;-53.3469;41
+Nova Santa Bárbara;-23.5865;-50.7598;41
+Nova Santa Rosa;-24.4693;-53.9552;41
+Nova Tebas;-24.438;-51.9454;41
+Novo Itacolomi;-23.7631;-51.5079;41
+Ortigueira;-24.2058;-50.9185;41
+Ourizona;-23.4053;-52.1964;41
+Ouro Verde do Oeste;-24.7933;-53.9043;41
+Paiçandu;-23.4555;-52.046;41
+Palmas;-26.4839;-51.9888;41
+Palmeira;-25.4257;-50.007;41
+Palmital;-24.8853;-52.2029;41
+Palotina;-24.2868;-53.8404;41
+Paraíso do Norte;-23.2824;-52.6054;41
+Paranacity;-22.9297;-52.1549;41
+Paranaguá;-25.5161;-48.5225;41
+Paranapoema;-22.6412;-52.0905;41
+Paranavaí;-23.0816;-52.4617;41
+Pato Bragado;-24.6271;-54.2265;41
+Pato Branco;-26.2292;-52.6706;41
+Paula Freitas;-26.2105;-50.931;41
+Paulo Frontin;-26.0466;-50.8304;41
+Peabiru;-23.914;-52.3431;41
+Perobal;-23.8949;-53.4098;41
+Pérola;-23.8039;-53.6834;41
+Pérola d'Oeste;-25.8278;-53.7433;41
+Piên;-26.0965;-49.4336;41
+Pinhais;-25.4429;-49.1927;41
+Pinhal de São Bento;-26.0324;-53.482;41
+Pinhalão;-23.7982;-50.0536;41
+Pinhão;-25.6944;-51.6536;41
+Piraí do Sul;-24.5306;-49.9433;41
+Piraquara;-25.4422;-49.0624;41
+Pitanga;-24.7588;-51.7596;41
+Pitangueiras;-23.2281;-51.5873;41
+Planaltina do Paraná;-23.0101;-52.9162;41
+Planalto;-25.7211;-53.7642;41
+Ponta Grossa;-25.0916;-50.1668;41
+Pontal do Paraná;-25.6735;-48.5111;41
+Porecatu;-22.7537;-51.3795;41
+Porto Amazonas;-25.54;-49.8946;41
+Porto Barreiro;-25.5477;-52.4067;41
+Porto Rico;-22.7747;-53.2677;41
+Porto Vitória;-26.1674;-51.231;41
+Prado Ferreira;-23.0357;-51.4429;41
+Pranchita;-26.0209;-53.7397;41
+Presidente Castelo Branco;-23.2782;-52.1536;41
+Primeiro de Maio;-22.8517;-51.0293;41
+Prudentópolis;-25.2111;-50.9754;41
+Quarto Centenário;-24.2775;-53.0759;41
+Quatiguá;-23.5671;-49.916;41
+Quatro Barras;-25.3673;-49.0763;41
+Quatro Pontes;-24.5752;-53.9759;41
+Quedas do Iguaçu;-25.4492;-52.9102;41
+Querência do Norte;-23.0838;-53.483;41
+Quinta do Sol;-23.8533;-52.1309;41
+Quitandinha;-25.8734;-49.4973;41
+Ramilândia;-25.1195;-54.023;41
+Rancho Alegre;-23.0676;-50.9145;41
+Rancho Alegre D'Oeste;-24.3065;-52.9552;41
+Realeza;-25.7711;-53.526;41
+Rebouças;-25.6232;-50.6877;41
+Renascença;-26.1588;-52.9703;41
+Reserva;-24.6492;-50.8466;41
+Reserva do Iguaçu;-25.8319;-52.0272;41
+Ribeirão Claro;-23.1941;-49.7597;41
+Ribeirão do Pinhal;-23.4091;-50.3601;41
+Rio Azul;-25.7306;-50.7985;41
+Rio Bom;-23.7606;-51.4122;41
+Rio Bonito do Iguaçu;-25.4874;-52.5292;41
+Rio Branco do Ivaí;-24.3244;-51.3187;41
+Rio Branco do Sul;-25.1892;-49.3115;41
+Rio Negro;-26.095;-49.7982;41
+Rolândia;-23.3101;-51.3659;41
+Roncador;-24.5958;-52.2716;41
+Rondon;-23.412;-52.7659;41
+Rosário do Ivaí;-24.2682;-51.272;41
+Sabáudia;-23.3155;-51.555;41
+Salgado Filho;-26.1777;-53.3631;41
+Salto do Itararé;-23.6074;-49.6354;41
+Salto do Lontra;-25.7813;-53.3135;41
+Santa Amélia;-23.2654;-50.4288;41
+Santa Cecília do Pavão;-23.5201;-50.7835;41
+Santa Cruz de Monte Castelo;-22.9582;-53.2949;41
+Santa Fé;-23.04;-51.808;41
+Santa Helena;-24.8585;-54.336;41
+Santa Inês;-22.6376;-51.9024;41
+Santa Isabel do Ivaí;-23.0025;-53.1989;41
+Santa Izabel do Oeste;-25.8217;-53.4801;41
+Santa Lúcia;-25.4104;-53.5638;41
+Santa Maria do Oeste;-24.9377;-51.8696;41
+Santa Mariana;-23.1465;-50.5167;41
+Santa Mônica;-23.108;-53.1103;41
+Santa Tereza do Oeste;-25.0543;-53.6274;41
+Santa Terezinha de Itaipu;-25.4391;-54.402;41
+Santana do Itararé;-23.7587;-49.6293;41
+Santo Antônio da Platina;-23.2959;-50.0815;41
+Santo Antônio do Caiuá;-22.7351;-52.344;41
+Santo Antônio do Paraíso;-23.4969;-50.6455;41
+Santo Antônio do Sudoeste;-26.0737;-53.7251;41
+Santo Inácio;-22.6957;-51.7969;41
+São Carlos do Ivaí;-23.3158;-52.4761;41
+São Jerônimo da Serra;-23.7218;-50.7475;41
+São João;-25.8214;-52.7252;41
+São João do Caiuá;-22.8535;-52.3411;41
+São João do Ivaí;-23.9833;-51.8215;41
+São João do Triunfo;-25.683;-50.2949;41
+São Jorge d'Oeste;-25.7085;-52.9204;41
+São Jorge do Ivaí;-23.4336;-52.2929;41
+São Jorge do Patrocínio;-23.7647;-53.8823;41
+São José da Boa Vista;-23.9122;-49.6577;41
+São José das Palmeiras;-24.8369;-54.0572;41
+São José dos Pinhais;-25.5313;-49.2031;41
+São Manoel do Paraná;-23.3941;-52.6454;41
+São Mateus do Sul;-25.8677;-50.384;41
+São Miguel do Iguaçu;-25.3492;-54.2405;41
+São Pedro do Iguaçu;-24.9373;-53.8521;41
+São Pedro do Ivaí;-23.8634;-51.8568;41
+São Pedro do Paraná;-22.8239;-53.2241;41
+São Sebastião da Amoreira;-23.4656;-50.7625;41
+São Tomé;-23.5349;-52.5901;41
+Sapopema;-23.9078;-50.5801;41
+Sarandi;-23.4441;-51.876;41
+Saudade do Iguaçu;-25.6917;-52.6184;41
+Sengés;-24.1129;-49.4616;41
+Serranópolis do Iguaçu;-25.3799;-54.0518;41
+Sertaneja;-23.0361;-50.8317;41
+Sertanópolis;-23.0571;-51.0399;41
+Siqueira Campos;-23.6875;-49.8304;41
+Sulina;-25.7066;-52.7299;41
+Tamarana;-23.7204;-51.0991;41
+Tamboara;-23.2036;-52.4743;41
+Tapejara;-23.7315;-52.8735;41
+Tapira;-23.3193;-53.0684;41
+Teixeira Soares;-25.3701;-50.4571;41
+Telêmaco Borba;-24.3245;-50.6176;41
+Terra Boa;-23.7683;-52.447;41
+Terra Rica;-22.7111;-52.6188;41
+Terra Roxa;-24.1575;-54.0988;41
+Tibagi;-24.5153;-50.4176;41
+Tijucas do Sul;-25.9311;-49.195;41
+Toledo;-24.7246;-53.7412;41
+Tomazina;-23.7796;-49.9499;41
+Três Barras do Paraná;-25.4185;-53.1833;41
+Tunas do Paraná;-24.9731;-49.0879;41
+Tuneiras do Oeste;-23.8648;-52.8769;41
+Tupãssi;-24.5879;-53.5105;41
+Turvo;-25.0437;-51.5282;41
+Ubiratã;-24.5393;-52.9865;41
+Umuarama;-23.7656;-53.3201;41
+União da Vitória;-26.2273;-51.0873;41
+Uniflor;-23.0868;-52.1573;41
+Uraí;-23.2;-50.7939;41
+Ventania;-24.2458;-50.2376;41
+Vera Cruz do Oeste;-25.0577;-53.8771;41
+Verê;-25.8772;-52.9051;41
+Virmond;-25.3829;-52.1987;41
+Vitorino;-26.2683;-52.7843;41
+Wenceslau Braz;-23.8742;-49.8032;41
+Xambrê;-23.7364;-53.4884;41
