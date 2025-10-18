@@ -1,2 +1,2 @@
-nome;latitude;longitude;codigo_uf
-Mossoró;-5.17527;-37.43254;24
+nome;endereco;estado;municipio;latitude;longitude
+inpEV Mossoró;Rua Mestre Sal, 710;Rio Grande do Norte;Mossoró;-5.17527;-37.43254
